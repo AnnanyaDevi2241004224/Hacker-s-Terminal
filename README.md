@@ -10,9 +10,9 @@ This project is a fun hacking simulator that mimics the look of a terminal hack 
 - Stylish font and animations for a realistic effect.
 
 ## view-1
-![Screensho![im](https://github.com/user-attachments/assets/8fbe974b-39db-46a4-8591-7123a3c94b7c)
+![im](https://github.com/user-attachments/assets/8fbe974b-39db-46a4-8591-7123a3c94b7c)
 ## view -2
-t_29-7-2024_9110_](https://github.com/user-attachments/assets/81e8e8fd-167e-4199-83c9-ad45f9b82ddd)
+![Screenshot_29-7-2024_9110_](https://github.com/user-attachments/assets/81e8e8fd-167e-4199-83c9-ad45f9b82ddd)
 ## view -3
 ![img](https://github.com/user-attachments/assets/0594b20d-1855-4afd-9b3a-6507479fa194)
 ## Technologies Used
